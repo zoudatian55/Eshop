@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@+id/ll_list"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/list_image"
+        android:src="@drawable/empty_cart"
+        android:layout_margin="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_margin="5dp"
+            android:text="商品描述"
+            android:id="@+id/list_good_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="5dp"
+            android:text="商品其他描述"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:id="@+id/list_else_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="5dp"
+            android:text="商品价格"
+            android:id="@+id/list_price"
+            android:textColor="#ff0000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/list_store_list"
+            android:layout_marginRight="5dp"
+            android:gravity="bottom"
+            android:layout_margin="5dp"
+            android:layout_gravity="right"
+            android:text="店铺名称"
+            android:textColor="#ffffff"
+            android:background="#ff0000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

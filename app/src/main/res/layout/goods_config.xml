@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_marginTop="5dp"
+    android:layout_marginLeft="10dp"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="#000000"
+            android:textSize="15sp"
+            android:id="@+id/tv_goods_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#ff0000"
+            android:textSize="15sp"
+            android:id="@+id/tv_goods_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000000"
+                android:textSize="15sp"
+                android:text="送至"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+           <TextView
+               android:textSize="15sp"
+               android:gravity="center"
+              android:layout_weight="1"
+             android:id="@+id/tv_goods_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+            <TextView
+
+                android:textSize="15sp"
+                android:textColor="#ff0000"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:id="@+id/tv_store"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            </LinearLayout>
+            <TextView
+                android:textColor="#000000"
+                android:textSize="15sp"
+               android:id="@+id/tv_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </LinearLayout>
+        <View
+            android:background="#bfbfbf"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"/>
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000000"
+                android:textSize="15sp"
+                android:text="已选"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_margin="5dp"
+                android:textSize="15sp"
+                android:text="默认x1"
+                android:id="@+id/tv_nature"
+                android:layout_weight="4"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:layout_gravity="center"
+                android:id="@+id/iv_detail"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/nc_icon_arrow_right"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp" />
+
+        </LinearLayout>
+        <include layout="@layout/goods_service"
+            android:visibility="gone"
+            android:id="@+id/service"/>
+        <View
+            android:background="#bfbfbf"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"/>
+
+        </LinearLayout>
+
+
+</LinearLayout>

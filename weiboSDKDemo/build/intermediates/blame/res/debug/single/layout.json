@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_api_logout.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_open_api_logout.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_api_invite.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_open_api_invite.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_auth.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scheme_page.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_scheme_page.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_api.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_open_api.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_api_base_layout.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_open_api_base_layout.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_social.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_social.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share_main.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_share_main.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_logout.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_login_logout.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_auth_code.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_auth_code.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\share_item_template.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\layout\\share_item_template.xml"
+    }
+]

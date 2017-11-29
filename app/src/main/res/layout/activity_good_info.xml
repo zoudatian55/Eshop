@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ll_title_root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ec0f38"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/ll_back"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="15dp">
+
+                <ImageView
+                    android:id="@+id/iv_back"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/address_come_back" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <!-- 商品、详情、评价切换的控件 -->
+                <com.gxz.PagerSlidingTabStrip
+                    android:id="@+id/psts_tabs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"
+                    android:textSize="15sp"
+                    app:pstsDividerColor="@android:color/transparent"
+                    app:pstsDividerPaddingTopBottom="0dp"
+                    app:pstsIndicatorColor="#ffffff"
+                    app:pstsIndicatorHeight="2dp"
+                    app:pstsScaleZoomMax="0.0"
+                    app:pstsShouldExpand="false"
+                    app:pstsSmoothScrollWhenClickTab="false"
+                    app:pstsTabPaddingLeftRight="12dp"
+                    app:pstsTextAllCaps="false"
+                    app:pstsTextSelectedColor="#ffffff"
+                    app:pstsUnderlineHeight="0dp" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.example.administrator.eshop.weight.NoScrollViewPager
+        android:id="@+id/vp_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+    <LinearLayout
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_weight="1"
+            android:gravity="center"
+            android:drawableTop="@drawable/nc_icon_kefu"
+            android:id="@+id/tv_chat"
+            android:text="客服"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_weight="1"
+            android:gravity="center"
+            android:drawableTop="@drawable/nc_icon_cart"
+            android:text="购物车"
+            android:id="@+id/tv_cart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Button
+            android:background="#ff0000"
+            android:id="@+id/btn_buy"
+            android:text="立即购买"
+            android:textColor="#ffffff"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <Button
+            android:background="#fa743c"
+            android:textColor="#ffffff"
+            android:text="添加到购物车"
+            android:id="@+id/btn_cart"
+            android:layout_weight="2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+</LinearLayout>
+

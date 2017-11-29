@@ -1,0 +1,88 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:id="@+id/ll_good_root"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:focusableInTouchMode="true"
+        android:focusable="true"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp">
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_imgs"
+        android:layout_width="match_parent"
+        android:layout_height="400dp">
+    </android.support.v4.view.ViewPager>
+    <LinearLayout
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="5dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_share"
+            android:src="@drawable/nc_icon_share"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+        <ImageView
+            android:id="@+id/iv_fav"
+            android:src="@drawable/nc_icon_fav_off"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+
+    </LinearLayout>
+    </RelativeLayout>
+ <include layout="@layout/goods_config" />
+    <View
+        android:background="#eae9e9"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"/>
+   <include layout="@layout/goods_comment"/>
+        <View
+            android:background="#efefef"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"/>
+        <include layout="@layout/goods_describe"
+
+            android:id="@+id/goods_describe"/>
+        <View
+            android:background="#efefef"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"/>
+
+        <TextView
+            android:textSize="15sp"
+            android:text="店铺推荐"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.example.administrator.eshop.weight.CommandGridView
+            android:id="@+id/commend"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:horizontalSpacing="1dp"
+            android:verticalSpacing="1dp"
+            android:layout_height="400dp">
+        </com.example.administrator.eshop.weight.CommandGridView>
+    <TextView
+        android:textSize="15sp"
+        android:id="@+id/tv_chess_detail"
+        android:background="#efefef"
+        android:gravity="center"
+        android:text="继续拖动,查询详情"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    </LinearLayout>
+
+
+</ScrollView>

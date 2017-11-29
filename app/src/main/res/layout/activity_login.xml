@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.eshop.LoginActivity">
+
+ <ImageView
+     android:layout_margin="50dp"
+     android:scaleType="fitXY"
+     android:src="@drawable/nc_login_split"
+     android:layout_width="match_parent"
+     android:layout_height="50dp" />
+    <ImageButton
+        android:id="@+id/ib_weibo"
+        android:background="#ffffff"
+        android:src="@drawable/nc_icon_weibo"
+        android:layout_gravity="center"
+        android:scaleType="fitXY"
+        android:layout_width="80dp"
+        android:layout_height="80dp" />
+
+</LinearLayout>

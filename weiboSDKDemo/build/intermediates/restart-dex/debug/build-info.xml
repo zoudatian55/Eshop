@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="5220730984135"
+    token="7756830007422820076"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="450" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="84" />
+    <task
+        name="verifier"
+        duration="21" />
+
+    <artifact
+        location="F:\Users\Administrator\AndroidStudioProjects\EShop\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\Users\Administrator\AndroidStudioProjects\EShop\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="5170896570467"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\Users\Administrator\AndroidStudioProjects\EShop\weiboSDKDemo\build\outputs\apk\weiboSDKDemo-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="5220730984135"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\Users\Administrator\AndroidStudioProjects\EShop\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\Users\Administrator\AndroidStudioProjects\EShop\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

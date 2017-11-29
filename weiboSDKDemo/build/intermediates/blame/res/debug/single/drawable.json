@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login_button_blue_normal.9.png",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\ic_login_button_blue_normal.9.png"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_frame_logo.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\EShop\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_frame_logo.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_blue_selector.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\login_button_blue_selector.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_music_thumb.png",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\ic_share_music_thumb.png"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_account_text.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\EShop\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_account_text.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_button_grey.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\EShop\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_button_grey.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_button_blue.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\EShop\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_button_blue.xml"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sina_logo.png",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\ic_sina_logo.png"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_video_thumb.png",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\ic_share_video_thumb.png"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login_button_blue_focused.9.png",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\ic_login_button_blue_focused.9.png"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\background.9.png",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\background.9.png"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.png",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login_button_blue_pressed.9.png",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\ic_login_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_voice_thumb.png",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\src\\main\\res\\drawable\\ic_share_voice_thumb.png"
+    },
+    {
+        "merged": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml",
+        "source": "F:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\EShop\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml"
+    }
+]

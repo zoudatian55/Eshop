@@ -1,0 +1,7 @@
+#Sat Nov 18 16:43:15 CST 2017
+base.0=F\:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_704fa5a439d440de07718e433a44c7370d741d1a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_054032cc2ef4f2cb5dadbe5f7f5c4737083abe3e\\classes.dex
+base.1=F\:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_054032cc2ef4f2cb5dadbe5f7f5c4737083abe3e
+file.0=F\:\\Users\\Administrator\\AndroidStudioProjects\\EShop\\weiboSDKDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_704fa5a439d440de07718e433a44c7370d741d1a\\classes.dex
